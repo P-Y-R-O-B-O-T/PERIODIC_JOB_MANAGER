@@ -1,0 +1,7 @@
+{
+	"HAVE SOME SAXX": {"TYPE": "LONG",
+					   "INTERVAL": 20,
+					   "MIN_TIME_TO_START": 0,
+					   "TIME": [[19, 8]],
+					   "COMMAND": "notify-send 'Surprize motherfuckers' 'Have Some SAXX' --urgency=critical --expire-time=1000 --app-name=PDF --icon=/home/$USER/.PEROIDIC_JOB_MANAGER/ICONS/sexy.png"}
+}

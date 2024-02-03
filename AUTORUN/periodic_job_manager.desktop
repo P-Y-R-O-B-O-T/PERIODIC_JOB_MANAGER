@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /home/kushl/.PERIODIC_JOB_MANAGER/periodic_job_manager.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en]=HUHU
+Name=HUHU
+Comment[en]=huhuhuhu
+Comment=huhuhuhu
