@@ -20,7 +20,7 @@
 ## COMPATIBILITY
 * This is tested on `ubuntu 22`, `xorg` and `bash` as of now
 
-* Onen to solve issues and contribute
+* Open to solve issues and contribute
 
 # INSTALLATION
 > Run the following commands:
