@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=python3 /home/kushl/.PERIODIC_JOB_MANAGER/periodic_job_manager.py
+Exec=python3 /home/$USER/.PERIODIC_JOB_MANAGER/periodic_job_manager.py
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
